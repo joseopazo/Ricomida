@@ -1,0 +1,52 @@
+body{
+    margin-top: 150px;
+    font-family: 'Cabin',sans-serif;
+    font-weight: 400;
+     }
+
+     #titulomovil{
+         text-align: center;
+     }
+
+     #titulopc{
+         text-align: left;
+     }
+
+     #indicador1{
+         width: 10px;
+         height: 10px;
+         border-radius: 50%;
+     }
+     #indicador2{
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+    }
+
+    #tituloreceta{
+        text-align: center;
+    }
+
+    #Recetas{
+        text-align: center;
+    }
+
+    #logoreicomida{
+        font-family: 'Lobster',cursive;
+        font-size: 50px;
+        text-align: center;
+        color: #ffffff;
+    }
+    
+    #titulosuscribete{
+        text-align: center;
+    }
+    .suscribete{
+        text-align: center;
+    }
+
+    .rojo{
+        color: red;
+    }
+    
+    
